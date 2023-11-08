@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "678090654322",
+    "project_id": "studimi-project",
+    "storage_bucket": "studimi-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678090654322:android:cff83a5df974dca578b8eb",
+        "android_client_info": {
+          "package_name": "com.example.first"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678090654322-6vab7p21ierot75s17nd50b7g3d51u9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqMLP0ELsj7fRHP9KqSoGulTbaEokXslA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678090654322-6vab7p21ierot75s17nd50b7g3d51u9o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "678090654322-h8ktf9q30drm56u2poulr1vnkietqvfb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.studimi.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678090654322:android:ab19ae96341a700578b8eb",
+        "android_client_info": {
+          "package_name": "com.example.studimi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678090654322-6vab7p21ierot75s17nd50b7g3d51u9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqMLP0ELsj7fRHP9KqSoGulTbaEokXslA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678090654322-6vab7p21ierot75s17nd50b7g3d51u9o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "678090654322-h8ktf9q30drm56u2poulr1vnkietqvfb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.studimi.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
